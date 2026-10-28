@@ -1,0 +1,6 @@
+rank,zone,core_priority,demand_potential,growth_pressure,matatu_gap,interpretation
+1,24,0.722,0.445,1.000,0.988,growth-driven
+2,25,0.509,0.613,0.405,0.930,demand-driven
+3,2,0.491,0.318,0.663,0.925,growth-driven
+4,26,0.387,0.586,0.189,0.756,demand-driven
+5,23,0.343,0.392,0.294,0.877,demand-driven
